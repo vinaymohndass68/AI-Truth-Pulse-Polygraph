@@ -1,0 +1,8 @@
+{
+  "name": "AI Truth-Pulse Polygraph",
+  "description": "A high-tech multimodal lie detection application using Gemini Live API to analyze micro-expressions, voice patterns, and responses in real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
